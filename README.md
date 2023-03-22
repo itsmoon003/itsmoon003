@@ -6,9 +6,6 @@
 # 💫 About Me:
 <p>Hi! My name is <span> Meghana Soni </span> and I am a skilled Technical Support Engineer with a belief in building good customer relationships. Passionate about providing technical assistance, Dedicated to maintaining high customer satisfaction by delivering prompt and effective technical solutions. Ability to handle any part of the process with ease.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([http://www.linkedin.com/in/meghanasoni](http://www.linkedin.com/in/meghanasoni))(http://www.linkedin.com/in/meghanasoni)
-
  <h3>
   <a href="(https://drive.google.com/file/d/1wTa2eTGOrJcBXRBH8dSoQ1DkdHxIvU4P/view?usp=sharing)" target="_blank"> Resume </a>
 </h3>
