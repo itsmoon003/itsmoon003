@@ -1,13 +1,13 @@
 # 👋 Hi, I’m Meghana Soni
 
-- 🌱 I’m currently learning *Technical Support Engineer*
+- 🌱 I’m currently learning *Web Developer*
 
 
 # 💫 About Me:
-<p>Hi! My name is <span> Meghana Soni </span> and I am a skilled Technical Support Engineer with a belief in building good customer relationships. Passionate about providing technical assistance, Dedicated to maintaining high customer satisfaction by delivering prompt and effective technical solutions. Ability to handle any part of the process with ease.
+<p>Hi! My name is <span> Meghana Soni </span> and I am a dedicated Web Developer, familiar with a wide range of programming utilities. Aware of some development requirements. Excellent communication skills and ability to handle any part of the process with ease.
 
  <h3>
-  <a href="(https://drive.google.com/file/d/1wTa2eTGOrJcBXRBH8dSoQ1DkdHxIvU4P/view?usp=sharing)" target="_blank"> Resume </a>
+  <a href="(https://drive.google.com/file/d/1dFkQpiJ8yM83kZw5pvsHX84yq8AIlCfZ/view?usp=sharing)" target="_blank"> Resume </a>
 </h3>
  
 # 💻 Tech Stack:
